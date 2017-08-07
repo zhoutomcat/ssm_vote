@@ -170,6 +170,6 @@
 
 	</dependencies>
 	<build>
-		<finalName>ssm-vote</finalName>
+		<finalName>ssm-votessm-votessm-vote</finalName>
 	</build>
 </project>
