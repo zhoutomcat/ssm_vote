@@ -6,7 +6,8 @@ public class A {
 		private String a;
 		
 	public void a(){
-		
+		int f;
+		int r;
 	}
 		
 }
