@@ -1,5 +1,5 @@
 package com.yc.bean;
 
-public class A {
-		
+public class B {
+
 }
